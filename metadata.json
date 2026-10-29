@@ -1,0 +1,6 @@
+{
+  "name": "BharatTest - Real-World Indian App Reliability Testing Platform",
+  "description": "Test mobile and web applications under authentic Indian network constraints, 2GB budget devices, regional vernacular text, and payment edge cases. Prioritize failures by estimated affected Indian users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
